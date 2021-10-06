@@ -3,8 +3,7 @@
 - 💬 Ask me about Reactjs,python,machine learning
 - 📫 How to reach me: aniketrathod2707@gmail.com
 
-<div class="tenor-gif-embed" data-postid="12924304" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-gif-12924304">Code GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+(https://user-images.githubusercontent.com/70954973/136135719-32eb15f0-d4c9-499e-a351-afac01bba962.gif)
 
 ## 🛠️ My favorite tools
 
