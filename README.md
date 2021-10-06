@@ -53,4 +53,4 @@
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
     <a href="#"><img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-0078d7.svg?logo=cad&logoColor=white"></a>
 </p>
-https://github-readme-stats.vercel.app/api?username=Aniket27100709&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=Aniket27100709&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
