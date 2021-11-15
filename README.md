@@ -50,3 +50,8 @@
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Aniket27100709&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<p align="center"> 
+  Profile Viewer<br>
+  <img src="https://profile-counter.glitch.me/rit-hub/count.svg" />
+</p>
