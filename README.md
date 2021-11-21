@@ -33,7 +33,7 @@
      <a href="#"><img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
 </p>
 
-### Databases and cloud hosting
+### cloud hosting
 
 
 <p>
