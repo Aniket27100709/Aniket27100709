@@ -29,8 +29,9 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-     <a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
-     <a href="#"><img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Nodejs" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="Expressjs" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="FastApi" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>
 </p>
 
 ### cloud hosting
