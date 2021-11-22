@@ -58,6 +58,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 <p align="center"> 
-  How many people have looked at the profile ?<br></br>
+  How many number of times people have looked at the profile ?<br></br>
   <img src="https://profile-counter.glitch.me/rit-hub/count.svg" />
 </p>
