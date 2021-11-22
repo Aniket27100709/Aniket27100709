@@ -52,7 +52,7 @@
     <a href="#"><img alt="PowerBi" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"></a>
 </p>
  
- ###Artificial Intelligence
+ ### Artificial Intelligence
 
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
