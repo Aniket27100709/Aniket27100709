@@ -3,7 +3,7 @@
 - 💬 Ask me about Reactjs,python,machine learning
 - 📫 How to reach me: aniketrathod2707@gmail.com
 
-![code](https://media4.giphy.com/media/htSeueZxZ2RkBPrIe1/giphy.gif)
+![code](https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47jmv9mgmhjycxb0tfl5r9dcli62ic0xjs2ma5posw&rid=giphy.gif&ct=s)
 
 
 ## 🛠️ My favorite tools
