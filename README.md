@@ -8,7 +8,12 @@
   <a href="https://www.linkedin.com/in/aniket-rathod-530a80206/"><img alt="C" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="https://stackoverflow.com/users/16735253/aniket-rathod"><img alt="C" src="https://aleen42.github.io/badges/src/stackoverflow.svg"></a>
 <a href="https://www.instagram.com/aniket_rathod27/"><img alt="C" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://www.instagram.com/aniket_rathod27/"><img alt="C" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://twitter.com/AniketR07425905"><img alt="C" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+## Blog:
+
+<a href="https://medium.com/@aniketrathod2707/"><img alt="C" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+
 
 ![code](https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47jmv9mgmhjycxb0tfl5r9dcli62ic0xjs2ma5posw&rid=giphy.gif&ct=s)
 
