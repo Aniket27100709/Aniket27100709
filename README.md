@@ -9,6 +9,7 @@
  <a href="https://stackoverflow.com/users/16735253/aniket-rathod"><img alt="C" src="https://aleen42.github.io/badges/src/stackoverflow.svg"></a>
 <a href="https://www.instagram.com/aniket_rathod27/"><img alt="C" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://twitter.com/AniketR07425905"><img alt="C" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://discord.gg/HJdc85cD"><img alt="C" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 ## Blog:
 
