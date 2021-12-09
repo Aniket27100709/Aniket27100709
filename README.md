@@ -5,6 +5,12 @@
 
 ![code](https://media0.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=ecf05e47jmv9mgmhjycxb0tfl5r9dcli62ic0xjs2ma5posw&rid=giphy.gif&ct=s)
 
+### Connect to Me:
+<p>
+  <a href="https://www.linkedin.com/in/aniket-rathod-530a80206/"><img alt="C" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+ <a href="https://stackoverflow.com/users/16735253/aniket-rathod"><img alt="C" src="https://aleen42.github.io/badges/src/stackoverflow.svg"></a>
+</p>
 
 ## 🛠️ My favorite tools
 
@@ -61,3 +67,5 @@
   How many number of times people have looked at the profile ?<br></br>
   <img src="https://profile-counter.glitch.me/rit-hub/count.svg" />
 </p>
+
+
