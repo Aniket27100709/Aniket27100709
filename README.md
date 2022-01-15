@@ -68,6 +68,7 @@
 
 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 
 <p align="center"> 
   How many number of times people have looked at the profile ?<br></br>
