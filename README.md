@@ -46,6 +46,12 @@
     <a href="#"><img alt="FastApi" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"></a>
 </p>
 
+## Databases
+<p>
+  <a href="#"><img href="Mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  <a href="#"><img href="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></a>
+</p>
+
 ### cloud hosting
 
 
